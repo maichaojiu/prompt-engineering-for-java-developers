@@ -45,3 +45,10 @@ prompt engineering for java developers/面向java开发者的llm应用开发入�
 
 ### 3. 问答系统实现
 ......
+
+### 4. 类似AutoGpt实现
+......
+
+### 5. 企业级AIGC应用实践
+
+5.1 销售助手，ai应用赋能销售高效完成客户拜访工作
